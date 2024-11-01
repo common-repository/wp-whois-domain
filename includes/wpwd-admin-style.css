@@ -1,0 +1,54 @@
+/*===========================admin style start============================*/
+.netgo-whois-post-setting .form-table tr {
+    background: #fff none repeat scroll 0 0;
+    display: block;
+    float: none;
+    margin: 0 0 0px;
+    padding: 0 25px;
+    position: relative;
+}
+
+#whoisSettingForm h2  ,.netgo-whois-post-setting h2{
+    background: #b7b7b7 none repeat scroll 0 0;
+    border-radius: 4px 4px 0 0;
+    box-shadow: 0 0 13px 0 #999 inset;
+    color: #fff;
+    font-size: 20px;
+    padding: 6px 13px;
+}
+
+.netgo-whois-post-setting .form-table {
+    margin-top: 0px;
+}
+
+.netgo-whois-post-setting .form-table tr p {
+    width: 80%;
+}
+
+.netgo-whois-post-setting .form-table tr p.about-title {
+    color: #000;
+    font-weight: 700;
+    padding: 10px 0 0;
+}
+
+.netgo-whois-post-setting .form-table tr p a {
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.added-success {
+    background-color: #fff;
+    border-left: 4px solid #7ad03a;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    margin-top: 8px;
+    padding: 1px 12px;
+    width: 95.8%;
+}
+
+#whoisSettingForm .form-table{
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	
+}
+
+/*===========================admin style end============================*/
